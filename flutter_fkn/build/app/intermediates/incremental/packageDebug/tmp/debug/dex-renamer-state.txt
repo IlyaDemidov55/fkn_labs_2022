@@ -1,0 +1,4 @@
+#Mon Mar 27 00:56:01 GMT+06:00 2023
+base.0=D\:\\documetochka\\DartAndFlutter\\demidov\\fkn_labs_2022\\flutter_fkn\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
